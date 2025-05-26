@@ -1,0 +1,17 @@
+streamlit
+gtts
+pydub
+speechrecognition
+transformers
+edge-tts
+google-api-python-client
+google-auth
+google-auth-oauthlib
+python-dotenv
+gspread
+oauth2client
+langchain
+langchain-google-genai
+langchain-groq
+streamlit-option-menu
+torch
